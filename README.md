@@ -72,4 +72,4 @@ Visualisation de données orientée business
 Aide à la décision
 
 ## 📷 Aperçu du dashboard
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard .png)
